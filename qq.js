@@ -13,12 +13,10 @@
 
 
 /* for (var a = 0; a < t; a++) {
-  document.getElementsByClassName("aheadr1")[a].href = 'https://p.qpic.cn/qqgameedu/0/c00612993c89f6338b097d4dc8883e74_0/0'
-  document.getElementsByClassName("aheadr2")[a].href = 'https://p.qpic.cn/qqgameedu/0/c50b181af444bd12a82ae654bdc44134_0/0'
-  document.getElementsByClassName("aheadr3")[a].href = 'https://xrfl-1318683004.cos-website.ap-nanjing.myqcloud.com'
+  document.getElementsByClassName("aheadr1")[a].href = 'https://p.qpic.cn/qqgameedu/0/97b98746f5e4b62e7bf513431905ca0c_0/0'
+  document.getElementsByClassName("aheadr2")[a].href = 'https://xrfl-1318683004.cos-website.ap-nanjing.myqcloud.com'
    
 }   */
 
-/* aheadr1 素材
-aheadr2 土豪专属
-aheadr3 往期回顾 */
+/* aheadr1 土豪专属
+aheadr2 往期回顾 */
