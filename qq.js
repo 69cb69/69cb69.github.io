@@ -13,7 +13,7 @@
 
 
 /* for (var a = 0; a < t; a++) {
-  document.getElementsByClassName("aheadr1")[a].href = 'https://p.qpic.cn/qqgameedu/0/97b98746f5e4b62e7bf513431905ca0c_0/0'
+  document.getElementsByClassName("aheadr1")[a].href = 'https://p.qpic.cn/qqgameedu/0/74f97f72b8c542590d3d3a523c19611e_0/0'
   document.getElementsByClassName("aheadr2")[a].href = 'https://xrfl-1318683004.cos-website.ap-nanjing.myqcloud.com'
    
 }   */
