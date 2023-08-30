@@ -6,14 +6,14 @@
 
 
 /* function jump11(){
-  window.location.href="https://p.qpic.cn/qqgameedu/0/2d5a4f8813fa9fda44efc4e244bd6de2_0/0";
+  window.location.href="https://p.qpic.cn/qqgameedu/0/dc4d0ace054dc64d23600da5f1c1f53a_0/0";
 } */
 /* 改这条是改快活跳 */
 
 
 
 for (var a = 0; a < t; a++) {
-  document.getElementsByClassName("aheadr1")[a].href = 'https://p.qpic.cn/qqgameedu/0/2d5a4f8813fa9fda44efc4e244bd6de2_0/0'
+  document.getElementsByClassName("aheadr1")[a].href = 'https://p.qpic.cn/qqgameedu/0/dc4d0ace054dc64d23600da5f1c1f53a_0/0'
   document.getElementsByClassName("aheadr2")[a].href = 'https://p.qpic.cn/qqgameedu/0/57a6f27dc5580a5ebf23eacc3ead70b2_0/0'
   document.getElementsByClassName("aheadr3")[a].href = 'https://xrfl1-1318683004.cos-website.ap-nanjing.myqcloud.com'
    
